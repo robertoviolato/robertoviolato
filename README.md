@@ -1,9 +1,9 @@
 ## Olá, eu sou o Roberto👋
 
-- 🔭 Hoje procuro trabalho na area de front-end 
-- 🌱 aprendendo React
-- 😄 Pronomes/Pronouns: Ele/Dele -- He/Him
-
+- 🔭 Hoje procuro trabalho na área de front-end / Currently looking for a front-end job position.
+- 🌱 Aprendendo/Learning React.
+- 😄 Pronomes/Pronouns: Ele/Dele -- He/Him.
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Robs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Robs-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
