@@ -1,6 +1,6 @@
 ## Olá, eu sou o Roberto👋
 
-- 🔭 Hoje procuro trabalho com front-end 
+- 🔭 Hoje procuro trabalho na area de front-end 
 - 🌱 aprendendo React
 - 😄 Pronomes/Pronouns: Ele/Dele -- He/Him
 
