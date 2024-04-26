@@ -1,6 +1,6 @@
 ## Olá, eu sou o Roberto👋
 
-- 🔭 Hoje procuro trabalho na área de front-end / Currently looking for a front-end job position.
+- 🔭 Desenvolvendo projetos de front-end / developing front-end projects.
 - 🌱 Aprendendo/Learning React.
 - 😄 Pronomes/Pronouns: Ele/Dele -- He/Him.
   
@@ -14,6 +14,8 @@
 </div>
 
  ##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoviolato&size_weight=0.5&count_weight=0.5&theme=radical)](https://github.com/robertoviolato/github-readme-stats) 
  
 <div> 
   <a href="https://www.instagram.com/robertopickart/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
